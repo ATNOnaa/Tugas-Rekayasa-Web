@@ -1,0 +1,96 @@
+.round-image {
+    border-radius: 50%;
+    margin-top: 10px;
+    margin-left: 80px;
+    max-width: 50%;
+
+}
+
+.divider{
+	background-color: black;
+	height: 1px;
+}
+
+.card .row{
+	margin-bottom: 10px;
+}
+
+.card-body .text-top p{
+	color: black;
+}
+
+.card-body .text-bottom{
+	display: flex;
+}
+
+.card-body .text-bottom p{
+	color: #0000ff;
+	margin-left: 5px;
+}
+
+.card-body .icon img{
+	width: 16px;
+	height: 16px;
+}
+
+.card-body .text-bottom .text-right p{
+	color: black;
+	margin-left: 200px;
+	background-color: #d3d3d3;
+}
+
+.biografi {
+	margin-top: 20px;
+	margin-left: 80px;
+}
+
+.biografi .biografi-isi h3 u{
+	color: black;
+}
+
+.biografi .biografi-isi p{
+	max-width: 90%;
+	color: black;
+	text-align: justify;
+}
+
+.biografi .biografi-isi .card{
+	max-width: 90%;
+	margin-bottom: 50px;
+	display: flex;
+}
+
+.biografi .biografi-isi .card .card-body{
+	display: flex;
+}
+
+.biografi .biografi-isi .card .card-body img{
+	width: 128px;
+	height: 128px;
+}
+
+.biografi .biografi-isi .card .text-card{
+	margin-top: 40px;
+}
+
+.biografi .biografi-isi .card .text-card .rs{
+	color: orange;
+	width: 800px;
+}
+
+.biografi .biografi-isi .card .jadwal{
+	margin-left: 20px;
+}
+
+.biografi .biografi-isi .card .jadwal .card{
+	max-width: 95%;
+}
+
+.biografi .biografi-isi .card .jadwal .card .card-body .praktik{
+	color: blue;
+}
+
+.biografi .biografi-isi .card .card-body p{
+	max-width: 80%;
+	margin-left: 20px;
+}
